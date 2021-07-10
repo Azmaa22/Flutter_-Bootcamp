@@ -1,0 +1,6 @@
+com/example/xylophone/MainActivity.java
+ com.example.xylophone.MainActivity
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/xylophone/BuildConfig.java
+ com.example.xylophone.BuildConfig
