@@ -12,3 +12,7 @@ Naseej Flutter Development Training
 * Quizzler
 * Destini
 * BMI-Calculator
+## Week02
+### Apps are implemented:
+* Clima
+* Bitcoin Tricker
