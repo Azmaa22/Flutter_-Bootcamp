@@ -1,0 +1,4 @@
+#Sun Jul 11 17:07:57 EET 2021
+base.0=D\:\\Flutter_Course\\bitcoin-ticker-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
