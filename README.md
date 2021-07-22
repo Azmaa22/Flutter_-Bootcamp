@@ -16,3 +16,5 @@ Naseej Flutter Development Training
 ### Apps are implemented:
 * Clima
 * Bitcoin Tricker
+* Flash Chat
+* To-Do List
